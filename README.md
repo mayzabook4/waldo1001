@@ -12,3 +12,6 @@ Here's a summary of my github contributions...
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericwauters/) [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/waldo1001)
 
 
+### If you want to support me, I'm always into a cup of coffee ;-)
+
+[![https://www.buymeacoffee.com/waldo](./images/buymeacoffeeSmall.png)](https://www.buymeacoffee.com/waldo)
